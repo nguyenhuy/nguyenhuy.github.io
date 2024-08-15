@@ -1,9 +1,9 @@
 # main text of home
 name: Huy Nguyen
-bio: iOS Software Engineer @ Pinterest <br> Core Contributor of Texture (formerly AsyncDisplayKit) <br> San Francisco Bay Area
+bio: Former Staff iOS Software Engineer @ Pinterest <br> Core Contributor of Texture (formerly AsyncDisplayKit) <br> San Francisco Bay Area
 
 # twitter summary info
-description: Technology, dogs and cats
+# description: Technology, dogs and cats
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,7 +54,7 @@ pinterest: huynguyen
 authors:
     huy:
         name: Huy Nguyen
-        bio: iOS Software Engineer @ Pinterest
+        bio: Former Staff iOS Software Engineer @ Pinterest
         external-image: false
         picture: assets/images/profile.jpg
     
